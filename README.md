@@ -13,3 +13,8 @@ as regional or larger commercial airports. There are numerous players and
 interests involved in the issue (airlines, city, state and federal authorities, civic
 groups, the military, airport operators), and an aviation consulting firm is seeking
 advisory contracts with these players.
+
+
+**Task**
+
+Build Predictive Model for the firm to predict fares in the event a new airport is brought into service.
