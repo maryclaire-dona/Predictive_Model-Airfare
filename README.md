@@ -1,6 +1,6 @@
 # Predictive_Model-Airfare
 
-** Background **
+**Background**
 
 The following problem takes place in the United States in the late 1990s, when
 many major US cities were facing issues with airport congestion, partly as a result
